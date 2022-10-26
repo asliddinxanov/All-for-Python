@@ -2,7 +2,7 @@
 
 ### Evolution of Python.
 
- -Python was developed by Guido Van Rossum in the late eighties at the ' National Research Institute       for Mathematics and Computer Science, at Netherlands.
+Python was developed by Guido Van Rossum in the late eighties at the ' National Research Institute       for Mathematics and Computer Science, at Netherlands.
 
  ### Python Editions 
 
@@ -61,8 +61,8 @@ But in this course we are going to be looking at jupyter notebook; and that is p
 
 - Bundled with Anaconda distribution or can be installed seperately.
 
--Supports Julia, Python, R and Scala.
+- Supports Julia, Python, R and Scala.
  
--Consists of ordered collection of input and output cells that contain code,text,plots etc.
+- Consists of ordered collection of input and output cells that contain code,text,plots etc.
 
--Allows sharing of code and narrative text through output format likePDF,HTML etc.
+- Allows sharing of code and narrative text through output format likePDF,HTML etc.
