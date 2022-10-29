@@ -315,6 +315,27 @@ else:
     t.penup()
     t.home()
 
+t.home()
+t.penup()
+t.penup()
+t.left(90)
+t.forward(300)
+t.left(90)
+t.forward(200)
+t.pendown()
+
+color = ('cyan', 'yellow', 'pink', 'red', 'light green', 'blue')
+t.speed(100)
+for i in range(120):
+    t.pencolor(color[i%6])
+    t.circle(60-i/2.90)
+    t.lt(90)
+    t.circle(60-i/3.90)
+    t.lt(60)
+else:
+    t.penup()
+    t.home()
+
 # Text
 t.penup()
 t.setpos(-290,-220)
